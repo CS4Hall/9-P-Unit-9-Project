@@ -38,7 +38,7 @@ var drawScene = function(){
     fill(255,255,255);
     textSize(20);
    
-   text(sceneText, 10, 375);
+    text(sceneText, 10, 375);
 };
 
 
